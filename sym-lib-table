@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name HX-Internal-FDD-Adapter-rescue)(type Legacy)(uri "${KIPRJMOD}/HX Internal FDD Adapter-rescue.lib")(options "")(descr ""))
+  (lib (name Internal-FDD-Adapter-rescue)(type Legacy)(uri "${KIPRJMOD}/Internal FDD Adapter-rescue.lib")(options "")(descr ""))
+  (lib (name Internal-5.25-Adapter-rescue)(type Legacy)(uri "${KIPRJMOD}/Internal 5.25 Adapter-rescue.lib")(options "")(descr ""))
+)
